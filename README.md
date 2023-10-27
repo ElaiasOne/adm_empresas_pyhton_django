@@ -1,4 +1,4 @@
-# Proyecto Django GPT
+# Proyecto Administrador de Inventario
 
 Este es un proyecto Django para gestionar inventario de productos.
 
@@ -52,7 +52,7 @@ python manage.py runserver
 
 ## Funcionalidades
 
-El **ADM DE EMPRESAS** es un sistema de gestión de inventario desarrollado con Django. Facilita la administración de productos, categorías y existencias en un entorno empresarial o comercial. Con una interfaz intuitiva, proporciona las siguientes funcionalidades clave:
+El **ADMINISTRADOR DE INVENTARIO** es un sistema de gestión de inventario desarrollado con Django. Facilita la administración de productos, categorías y existencias en un entorno empresarial o comercial. Con una interfaz intuitiva, proporciona las siguientes funcionalidades clave:
 
 - **Listar Productos:** Visualizar todos los productos disponibles con detalles relevantes.
 - **Eliminar Producto:** Eliminar productos existentes del inventario.
